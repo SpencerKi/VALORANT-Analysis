@@ -1,0 +1,32 @@
+---
+title: "Draft Proposal"
+author: "Mi Tian"
+date: "August 3, 2020"
+output: pdf_document
+---
+
+# Obectives
+_what will the Location,Average price per person, and Restaurant operating style affect a restaurant's operating income_. 
+This is a 2^3 factorial design for analyze what will affect a restaurant's income. This design may help a restaurant to improve their popularity or income if they are currently facing problems similar to this design.
+
+
+# Methods
+
+State how you plan to conduct the experiment here. You need to define what your factors and outcomes are, and how you plan to collect your data. i) Describe how your method helps make a causal inference about the factors  and ii) state any non-obvious assumptions you are making. 
+For i) I will set two kinds of locations, one is in the downtown (-1) area and the other is in GTA (1).The downtown area has advantages such as public transportation and the GTA area are usually easy to find a parking space.
+   I will set two levels of costs, around $75 per person (-1) or around $20 per person (1). Two levels of price are offer to different audience, they may have different environment and food quality.
+   I will set two different operating styles, one is asian style (-1) and the other is north american / european style (1). Holidays such as Valentine's day or Canada day,etc. will be excluded from my data since this may create various for my data. Other food styles are excluded because I am doing a 2^3 factorial design.
+   The response variable is the restaurant's income, it will be measured within everyday a restaurant's entire operating hours.
+
+For ii) It will be 16 days for collecting data to complete this design, 8 days will be one duration. I plan to have 2 durations to avoid if special circumstances orrcus in one of the duration and will affect my results.
+
+# Statstical Analysis Plan
+I will use regression model to estimate the coeficient of my factors (define a linear model). This is the step 1 of my design.
+I will also use the cube plot for visualization of the effect of this design. 8 run designs produces 12 comparisions.
+I will use the interaction plot for testing the average difference of average differences of 2 factors in this design.vWe can isualise the effects of two factor interactions using interaction plots.
+Two 8 days durations can estimate the variance for this design.
+
+
+
+
+

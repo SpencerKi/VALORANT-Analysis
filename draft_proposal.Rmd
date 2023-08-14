@@ -1,0 +1,24 @@
+---
+title: "Draft Proposal"
+author: "YOUR NAME HERE"
+date: "August 3, 2020"
+output: pdf_document
+---
+
+# Obectives
+
+State the question you aim to answer via the experiment. For the baseball example, the question could be stated as _what are the effects of grip and stance on a baseball speed_. Provide some details on the context to help the grading TA understand your interest and objectives.
+
+# Methods
+
+State how you plan to conduct the experiment here. You need to define what your factors and outcomes are, and how you plan to collect your data. i) Describe how your method helps make a causal inference about the factors  and ii) state any non-obvious assumptions you are making. 
+
+For i), I randomised the pitching orders and randomly picked balls from a cart to reduce the bias from using different balls and different order in the baseball example.
+
+For ii), I assumed that my pitching motions including the grips and the stance would be stable and consistent. This wasn't really true but I assumed the inconsistency was negligible for the purpose of the experiment. At the end of the experiment, I felt the inconsistency was larger than I anticipated. I would have included the issue in a discussion section of the report. Similarly, your experiment doesn't need to be perfect, but rather it's important for you to identify the limitations and address them as much as possible for the project.
+
+# Statstical Analysis Plan
+
+Briefly describe how you plan to analyse the data. The analysis plan may include - but not limited to - the type of summary statistics, data visualisations, and/or statistical models to infer a conclusion for your question stated in the objectives section. Specific methods for factorial design experiments will be covered in the [8. Introduction to Factorial Design](https://mjmoon.gitlab.io/sta305/modules/08-introduction-to-factorial-designs/) module. 
+
+
